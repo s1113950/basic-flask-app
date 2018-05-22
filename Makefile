@@ -11,7 +11,7 @@ venv:
 	@tox -e py3-venv
 
 dev-env:
-	@echo "Creating python3 editable install in .venv3"
+	@echo "Creating python3 editable install in .venv"
 	@tox -e py3-dev
 
 lint:
