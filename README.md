@@ -1,15 +1,8 @@
-# gack
-Github Slack Integration Tool
+# basic-flask-app
+A base Flask app to make other apps from
 
-## Installation
-```bash
-$ make install
-```
+NOTE: Will need to rerun the versioneer install instructions here still:
 
-## Dev Installation
-```bash
-$ make dev-env
-```
+https://github.com/warner/python-versioneer#quick-install
 
-### Reason For Making This
-Existing tools like the github slackbot or HubCommander were either overkill for us or didn't do what we wanted
+ANOTHER NOTE: rename `gack` to something else
