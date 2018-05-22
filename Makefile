@@ -1,5 +1,5 @@
 SHELL=bash
-VIRTUALENV_DIR=.venv3
+VIRTUALENV_DIR=.venv
 ACTIVATE="$(VIRTUALENV_DIR)/bin/activate"
 
 .PHONY: venv test lint clean
